@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\MAKTAB\\SideProjectRazor\\STOCKS\\STOCKS\\STOCKS.csproj": {}
+    "C:\\Users\\Yousef1371\\Desktop\\Project\\STOCKS\\STOCKS\\STOCKS\\STOCKS.csproj": {}
   },
   "projects": {
-    "G:\\MAKTAB\\SideProjectRazor\\STOCKS\\STOCKS\\STOCKS.csproj": {
+    "C:\\Users\\Yousef1371\\Desktop\\Project\\STOCKS\\STOCKS\\STOCKS\\STOCKS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\MAKTAB\\SideProjectRazor\\STOCKS\\STOCKS\\STOCKS.csproj",
+        "projectUniqueName": "C:\\Users\\Yousef1371\\Desktop\\Project\\STOCKS\\STOCKS\\STOCKS\\STOCKS.csproj",
         "projectName": "STOCKS",
-        "projectPath": "G:\\MAKTAB\\SideProjectRazor\\STOCKS\\STOCKS\\STOCKS.csproj",
-        "packagesPath": "C:\\Users\\Lion\\.nuget\\packages\\",
-        "outputPath": "G:\\MAKTAB\\SideProjectRazor\\STOCKS\\STOCKS\\obj\\",
+        "projectPath": "C:\\Users\\Yousef1371\\Desktop\\Project\\STOCKS\\STOCKS\\STOCKS\\STOCKS.csproj",
+        "packagesPath": "C:\\Users\\Yousef1371\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yousef1371\\Desktop\\Project\\STOCKS\\STOCKS\\STOCKS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yousef1371\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
