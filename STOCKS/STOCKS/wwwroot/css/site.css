@@ -1,3 +1,16 @@
+#b1, #b2, #b3 {
+    transition-duration: 0.5s;
+    color: antiquewhite;
+    padding-left: 5px;
+    border-radius: 3px;
+    margin-right: 5px;
+}
+
+#b1:hover,#b2:hover,#b3:hover {
+    color: black;
+    background-color: aliceblue;
+}
+
 html {
   font-size: 14px;
 }
